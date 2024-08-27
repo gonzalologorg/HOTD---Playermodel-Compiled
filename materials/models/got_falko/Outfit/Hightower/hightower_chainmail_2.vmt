@@ -1,0 +1,21 @@
+
+"VertexLitGeneric"
+{
+    $basetexture "models/got_falko/Outfit/Hightower/hightower_chainmail_2_d"
+    $bumpmap "models/got_falko/Outfit/Hightower/hightower_chainmail_2_n"
+    $phongexponenttexture "models/got_falko/Outfit/Hightower/hightower_chainmail_2_m"
+
+    $alphatest 1
+    $nocull 1
+    $phong "1"
+    $phongexponent "20"
+    $phongboost "10"
+    $phongfresnelranges "[.3 1 8]"
+
+    "$rimlight" "1"
+    "$rimlightexponent" "8"
+    "$rimlightboost" "0.7"
+
+    $phongalbedotint "1"
+    $phongdisablehalflambert "1"
+}

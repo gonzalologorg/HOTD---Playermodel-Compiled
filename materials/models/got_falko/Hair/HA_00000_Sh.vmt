@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/got_falko/Hair/HA_00000_Sh"
+	"$translucent" 1
+}

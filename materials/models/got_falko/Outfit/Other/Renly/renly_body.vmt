@@ -1,0 +1,17 @@
+
+    "VertexLitGeneric"
+    {
+        $basetexture "models/got_falko/Outfit/Other/Renly/renly_body_d"
+        $bumpmap "models/got_falko/Outfit/Other/Renly/renly_body_n"
+        $phongexponenttexture "models/got_falko/Outfit/Other/Renly/renly_body_m"
+
+        $nocull 1
+
+
+        "$rimlight" "1"
+        "$rimlightexponent" "8"
+        "$rimlightboost" "0.7"
+
+
+    }
+    

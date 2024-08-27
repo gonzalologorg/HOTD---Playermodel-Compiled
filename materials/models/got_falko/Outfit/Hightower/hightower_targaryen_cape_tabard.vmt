@@ -1,0 +1,15 @@
+
+    "VertexLitGeneric"
+    {
+        $basetexture "models/got_falko/Outfit/Hightower/hightower_targaryen_cape_tabard_d"
+        $bumpmap "models/got_falko/Outfit/Hightower/hightower_targaryen_cape_tabard_n"
+        $phongexponenttexture "models/got_falko/Outfit/Hightower/hightower_targaryen_cape_tabard_m"
+
+        $nocull 1
+
+
+        "$rimlight" "1"
+        "$rimlightexponent" "8"
+        "$rimlightboost" "0.7"
+    }
+    

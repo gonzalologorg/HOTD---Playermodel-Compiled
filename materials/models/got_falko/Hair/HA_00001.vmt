@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/got_falko/Hair/HA_00001"
+	
+	
+
+	$alphatest 1
+	$alphatestreference .2
+	$nocull 1
+	
+}

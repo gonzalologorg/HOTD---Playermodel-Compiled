@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/got_falko/base_body/P_CM_M_Base_BC"
+	"$bumpmap" "models/got_falko/base_body/P_CM_M_Base_N"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.1"
+	"$phongfresnelranges" "[.5 1 4]"
+}
